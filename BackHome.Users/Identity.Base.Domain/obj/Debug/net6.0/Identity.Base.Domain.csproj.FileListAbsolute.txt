@@ -1,0 +1,12 @@
+D:\GnanaProjectsForGitHub\Back_Social_Network\BackHome\BackHome.Users\Identity.Base.Domain\bin\Debug\net6.0\Identity.Base.Domain.deps.json
+D:\GnanaProjectsForGitHub\Back_Social_Network\BackHome\BackHome.Users\Identity.Base.Domain\bin\Debug\net6.0\Identity.Base.Domain.dll
+D:\GnanaProjectsForGitHub\Back_Social_Network\BackHome\BackHome.Users\Identity.Base.Domain\bin\Debug\net6.0\Identity.Base.Domain.pdb
+D:\GnanaProjectsForGitHub\Back_Social_Network\BackHome\BackHome.Users\Identity.Base.Domain\obj\Debug\net6.0\Identity.Base.Domain.csproj.AssemblyReference.cache
+D:\GnanaProjectsForGitHub\Back_Social_Network\BackHome\BackHome.Users\Identity.Base.Domain\obj\Debug\net6.0\Identity.Base.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\GnanaProjectsForGitHub\Back_Social_Network\BackHome\BackHome.Users\Identity.Base.Domain\obj\Debug\net6.0\Identity.Base.Domain.AssemblyInfoInputs.cache
+D:\GnanaProjectsForGitHub\Back_Social_Network\BackHome\BackHome.Users\Identity.Base.Domain\obj\Debug\net6.0\Identity.Base.Domain.AssemblyInfo.cs
+D:\GnanaProjectsForGitHub\Back_Social_Network\BackHome\BackHome.Users\Identity.Base.Domain\obj\Debug\net6.0\Identity.Base.Domain.csproj.CoreCompileInputs.cache
+D:\GnanaProjectsForGitHub\Back_Social_Network\BackHome\BackHome.Users\Identity.Base.Domain\obj\Debug\net6.0\Identity.Base.Domain.dll
+D:\GnanaProjectsForGitHub\Back_Social_Network\BackHome\BackHome.Users\Identity.Base.Domain\obj\Debug\net6.0\refint\Identity.Base.Domain.dll
+D:\GnanaProjectsForGitHub\Back_Social_Network\BackHome\BackHome.Users\Identity.Base.Domain\obj\Debug\net6.0\Identity.Base.Domain.pdb
+D:\GnanaProjectsForGitHub\Back_Social_Network\BackHome\BackHome.Users\Identity.Base.Domain\obj\Debug\net6.0\ref\Identity.Base.Domain.dll

@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "BackHome.Identity.Users.Domain/1.0.0": {
+        "dependencies": {
+          "BackHome.Identity.Base.Users.Domain": "1.0.0"
+        },
+        "runtime": {
+          "BackHome.Identity.Users.Domain.dll": {}
+        }
+      },
+      "BackHome.Identity.Base.Users.Domain/1.0.0": {
+        "runtime": {
+          "BackHome.Identity.Base.Users.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BackHome.Identity.Users.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BackHome.Identity.Base.Users.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
